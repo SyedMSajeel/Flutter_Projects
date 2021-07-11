@@ -5,6 +5,4 @@ dicee
 
 i_am_rich
 
-Flutter projects
-
 mi_card
